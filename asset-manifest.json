@@ -1,15 +1,15 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.ecbf2aa7.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.d8baae43.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.d8baae43.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.cde22863.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.cde22863.js.map",
-  "static/css/2.d7290d2d.chunk.css": "/react-gh-pages/static/css/2.d7290d2d.chunk.css",
-  "static/js/2.7c28faec.chunk.js": "/react-gh-pages/static/js/2.7c28faec.chunk.js",
-  "static/js/2.7c28faec.chunk.js.map": "/react-gh-pages/static/js/2.7c28faec.chunk.js.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.7c87cb77c6d0fd73e9014d39bf72c089.js": "/react-gh-pages/precache-manifest.7c87cb77c6d0fd73e9014d39bf72c089.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js",
-  "static/css/2.d7290d2d.chunk.css.map": "/react-gh-pages/static/css/2.d7290d2d.chunk.css.map",
-  "static/css/main.ecbf2aa7.chunk.css.map": "/react-gh-pages/static/css/main.ecbf2aa7.chunk.css.map"
+  "main.css": "/Smartbrain/static/css/main.ecbf2aa7.chunk.css",
+  "main.js": "/Smartbrain/static/js/main.269bb5b7.chunk.js",
+  "main.js.map": "/Smartbrain/static/js/main.269bb5b7.chunk.js.map",
+  "runtime~main.js": "/Smartbrain/static/js/runtime~main.175651bb.js",
+  "runtime~main.js.map": "/Smartbrain/static/js/runtime~main.175651bb.js.map",
+  "static/css/2.d7290d2d.chunk.css": "/Smartbrain/static/css/2.d7290d2d.chunk.css",
+  "static/js/2.7c28faec.chunk.js": "/Smartbrain/static/js/2.7c28faec.chunk.js",
+  "static/js/2.7c28faec.chunk.js.map": "/Smartbrain/static/js/2.7c28faec.chunk.js.map",
+  "index.html": "/Smartbrain/index.html",
+  "precache-manifest.2d84d69b1112ea69c4d88e18f1120c53.js": "/Smartbrain/precache-manifest.2d84d69b1112ea69c4d88e18f1120c53.js",
+  "service-worker.js": "/Smartbrain/service-worker.js",
+  "static/css/2.d7290d2d.chunk.css.map": "/Smartbrain/static/css/2.d7290d2d.chunk.css.map",
+  "static/css/main.ecbf2aa7.chunk.css.map": "/Smartbrain/static/css/main.ecbf2aa7.chunk.css.map"
 }
