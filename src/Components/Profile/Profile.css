@@ -1,0 +1,30 @@
+.wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.profile {
+  width: 400px;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+
+.profile h1 {
+  width: fit-content;
+}
+
+.table tbody {
+  border: 1px solid black;
+  text-align: left;
+}
+
+.table tbody th,
+.table tbody td {
+  padding: 3px 0;
+}
+
+.profile button {
+  margin: 35px 0;
+  width: fit-content;
+}
