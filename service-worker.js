@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/smartbrain/precache-manifest.75c8d17b0ea74f90b15290351a18e903.js"
+  "/Smartbrain/precache-manifest.90aefb82e9311e7d7a6a7b2603e7bbfc.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/smartbrain/index.html", {
+workbox.routing.registerNavigationRoute("/Smartbrain/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
